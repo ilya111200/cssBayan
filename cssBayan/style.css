@@ -206,9 +206,7 @@ details{
         padding: 10px;
     }
     
-    .accordion__item[open] .accordion__title::after{
-        content: "✚";
-    }
+  
     
     .accordion__item[open] .accordion__title::after{
         content: "✖";
